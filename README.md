@@ -1,4 +1,4 @@
-# Marathonic – Production-Style Flask Web Server on Raspberry Pi
+# Marathonic  Production-Style Flask Web Server on Raspberry Pi
 
 ##  Overview
 Marathonic is a secure, production-style web application deployed on a Raspberry Pi using a hardened Linux environment. The project demonstrates real-world infrastructure practices including reverse proxy architecture, service orchestration, least-privilege execution, and secure deployment techniques.
@@ -10,7 +10,7 @@ The application allows users to track marathon runs while showcasing secure web 
 ## Architecture
 **Application Layer**
 - Python Flask Web Application
-- MVC-style routing and templating
+- MVC style routing and templating
 - SQLite Database
 
 **Web Server Layer**
