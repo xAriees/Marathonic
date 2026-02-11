@@ -54,7 +54,7 @@ The application allows users to track marathon runs while showcasing secure web 
 ## Deployment Steps (Simplified)
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/marathonic.git
+git clone https://github.com/xAriees/marathonic.git
 
 # Enter directory
 cd marathonic
